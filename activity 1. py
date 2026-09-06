@@ -1,0 +1,10 @@
+print("hello world")
+
+print(12345)
+
+print("hi guys",27)
+
+print("hiiiiiiii" + "\n")
+
+print("yoooooooooo")
+
