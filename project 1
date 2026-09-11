@@ -1,0 +1,2 @@
+john="july 17 2025"
+print("john birthday is " + john)
